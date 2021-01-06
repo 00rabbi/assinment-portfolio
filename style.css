@@ -1,0 +1,55 @@
+body{
+    margin: 0%;
+}
+.manu-link{
+    
+    padding: 10px;
+    display: inline-block;
+    margin-right: 3%;
+    
+}
+.manu-bar{
+    height: 30px;
+    border: 1px solid red;
+    text-align: right;
+    margin: 2%;
+    margin-right: 5%;
+}
+.half-width{
+    width: 38%;
+    border: 2px solid orange;
+    float: left;
+    margin: 1% 5%;
+}
+.top-section1{
+    height: 500px;
+    border: 2px solid  blue;
+    
+}
+img{
+    width: 100%;
+}
+.top-section{
+    border: 2px solid;
+    height: 1200px;
+}
+.name-highlight{
+    color: orange;
+}
+.title{
+    text-align: center;
+}
+.project{
+    background-color: gainsboro;
+    height: 500px;
+}
+.project-link1{
+    width: 20%;
+    float: left;
+    margin: 2%;
+    border: 2px solid red;
+    padding: 2%;
+    box-shadow: 10px 10px 40px blue;
+    background-color: white;
+    border-radius: 10px;
+}
